@@ -1,5 +1,4 @@
-# Aayesha
-🌟 Hi there! I'm Aayesha 👋
+# 🌟 **Hi there! I'm Aayesha** 👋
 🛠️ Electronics & Communication Engineer | 🤖 Embedded systems Enthusiast | 💡 Tech Explorer | 📈 Data Analytics |
 
 🚀 About Me
