@@ -10,9 +10,13 @@ I'm a dedicated and passionate individual with a strong background in Electronic
 Here are some tools and technologies I’ve worked with:
 
 Programming Languages: Python, MATLAB, C/C++ 
+
 Tools & Platforms: Embedded softwares, Keil uVison, Xilinx ISE, MS Office 
+
 Emerging Technologies: Embedded Systems, Artificial Intelligence (AI), 
+
 Hardware: Microcontrollers, PCB Design, Sensors Integration
+
 
 🌱 Currently Learning
 Exploring IoT applications in modern tech.
@@ -27,7 +31,7 @@ Here are some things I’m proud of:
 📈 Business Analytics: Diving into data to uncover insights and optimize processes.
 
 📫 Let's Connect!😉
-GitHub: 
+GitHub: https://github.com/Aayesha16/My_Profile
 LinkedIn: http://linkedin.com/in/aayesha-l
 Email: aayeshakhn16@gmail.com
 
